@@ -4,9 +4,9 @@ A simple, empty project with everything needed for you to experiment with Tailwi
 
 ## Pre-requesites
 
-- You will need Node installed on your machine for this project to work. Download it [here](https://nodejs.org/en/download/).
+- You will need Node installed on your machine for this project to work. Download it [here](https://nodejs.org/en/download/) if you haven't installed it already.
 
-- If you haven't done so already, install [live-server](https://github.com/tapio/live-server) globally on your machine by running the following command in your terminal:
+- Install [live-server](https://github.com/tapio/live-server) globally on your machine (if you haven't already) by running the following command in your terminal:
 
 ```bash
 npm install -g live-server
@@ -14,7 +14,7 @@ npm install -g live-server
 
 ## Running the project
 
-- Open two terminal windows simulatenously from the project directory. In VS Code, this can be achieved by clicking the icon highlighted below in the top right of your terminal window.
+- Open two terminal windows simulatenously from the project directory. In VS Code, this can be achieved by opening the project in the application and clicking the icon highlighted below in the top right of your terminal window.
 
 ![Open additional terminal in VS Code](https://res.cloudinary.com/dptdx8zuv/image/upload/v1673698146/tailwind-css-sandbox/open-additional-terminal-in-vs-code_yw7yk0.png)
 
