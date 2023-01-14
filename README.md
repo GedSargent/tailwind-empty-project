@@ -1,6 +1,6 @@
 # Tailwind CSS - Empty Sandbox Project
 
-A simple, empty project with everything needed for you to experiment with Tailwind CSS
+A simple, empty sandbox project with everything needed for you to experiment with Tailwind CSS. This is aimed at **beginners**.
 
 ## Pre-requesites
 
@@ -8,7 +8,7 @@ A simple, empty project with everything needed for you to experiment with Tailwi
 
 - We are using VS Code as our IDE, which can be downloaded [here](https://code.visualstudio.com/download) if you need it.
 
-- Fianlly, we are also using Github Desktop for ease of use (this is aimed at beginners). Download it [here](https://desktop.github.com/) if you need this.
+- Finally, we are also using Github Desktop for ease of use (this is aimed at beginners). Download it [here](https://desktop.github.com/) if you need this.
 
 ## Cloning in Github Desktop
 
