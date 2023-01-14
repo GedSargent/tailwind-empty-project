@@ -22,13 +22,13 @@ npm install -g live-server
 
 ![Two terminals running simulatenously in VS Code](https://res.cloudinary.com/dptdx8zuv/image/upload/v1673698552/tailwind-css-sandbox/dual-terminal-in-vs-code_cwqnpy.jpg)
 
-- In the first terminal window, run the following command:
+- In the left terminal window, run the following command:
 
 ```bash
 npm run build
 ```
 
-- Once this is running **AND WITHOUT CLOSING THE FIRST TERMINAL**, run the following in the second terminal:
+- Once this is running **AND WITHOUT CLOSING THE LEFT TERMINAL**, run the following in the right terminal:
 
 ```bash
 npx live-server public
